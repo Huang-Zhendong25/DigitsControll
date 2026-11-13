@@ -1,0 +1,21 @@
+# ---- Keil MDK-ARM build outputs & user-state files ----
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/DebugConfig/
+MDK-ARM/.vscode/
+*.uvguix.*
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.axf
+*.hex
+*.bin
+*.htm
+*.dep
+*.iex
+*.elf
+*.out
+*.log
+Thumbs.db
