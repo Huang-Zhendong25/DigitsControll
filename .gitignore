@@ -3,6 +3,8 @@ MDK-ARM/Objects/
 MDK-ARM/Listings/
 MDK-ARM/DebugConfig/
 MDK-ARM/.vscode/
+MDK-ARM/Digits/
+MDK-ARM/EventRecorderStub.scvd
 *.uvguix.*
 *.o
 *.d
